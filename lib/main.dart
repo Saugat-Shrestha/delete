@@ -2,11 +2,11 @@ import 'package:delete/HomePage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const FireFly());
+  runApp(const delete());
 }
 
-class FireFly extends StatelessWidget {
-  const FireFly({super.key});
+class delete extends StatelessWidget {
+  const delete({super.key});
 
   // This widget is the root of your application.
   @override
